@@ -2,49 +2,6 @@
 layout: homepage
 ---
 
-<!-- 
-  This section uses HTML to create a two-column layout for the profile.
-  - Left column: Profile picture.
-  - Right column: Name, title, and contact information.
--->
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="lyc.jpg" alt="Lai Tian" style="width: 160px; margin-right: 25px; border-radius: 8px;">
-  <div style="flex-grow: 1;">
-    <h2 style="margin-top: 0;">Yuncheng Liu (刘云程)</h2>
-    <p style="margin: 0.5em 0;">
-      Postdoctoral Scholar<br>
-      <a href="https://ise.usc.edu/">Daniel J. Epstein Department of Industrial & Systems Engineering</a><br>
-      <a href="https://www.usc.edu/">University of Southern California</a>
-    </p>
-    <p style="margin: 1em 0;">
-      <strong>Office:</strong> OHE 340<br>
-      <strong>Email:</strong> tianlai.cs (at) gmail.com; laitian (at) usc.edu
-    </p>
-  </div>
-</div>
-
-
-## About Me
-
-I am a Postdoctoral Scholar at ISE of USC Viterbi working with Prof. [Johannes O. Royset](https://sites.google.com/a/nps.edu/royset/). Before relocating to Los Angeles, I spent four wonderful years in Hong Kong and received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I was advised by Prof. [Anthony Man-Cho So](https://www.se.cuhk.edu.hk/people/anthony-man-cho-so/).
-
-My research interests lie in the interface between mathematical optimization and computer science, with a particular emphasis on applications in modern machine learning. Recently, I have been especially focused on the computational and theoretical aspects of various **approximation techniques** in nonsmooth optimization and variational analysis.
-
-
-## What's New?
-- Honored and grateful to share that our work received the **Best Paper Prize** for Young Researchers at [ICCOPT 2025](https://iccopt2025.gerad.ca/)!
-
-
-## Selected Recent Works [[Google Scholar]](URL_TO_GOOGLE_SCHOLAR_PROFILE)
-
-- **Approximating Rockafellians Mitigate Distributional Perturbations** \
-  L. Tian, J. O. Royset \
-  *Preprint, 2025.* \
-  [[arXiv]](URL_TO_ARXIV_PAPER_1)
-
-
-
-
 ## About Me
 
 I am a postdoctoral researcher at the [Center for Advanced Intelligence Project (AIP), RIKEN, Japan](https://www.riken.jp/en/research/labs/aip/index.html) in the [Continuous Optimization Team](https://www.riken.jp/en/research/labs/aip/generic_tech/continuous_optimize/) led by [Prof. Akiko Takeda](http://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html). Before my current position, I worked with [Prof. Ching-pei Lee](https://leepei.github.io/) as a postdoctoral scholar at [Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php). Prior to this, I held a postdoctoral fellowship at the [Department of Mathematics, National Taiwan Normal University](https://cantor.math.ntnu.edu.tw/index.php/en/index_en/), where I also completed my Ph.D. in Mathematics under the guidance of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). For a more detailed information about my background, please refer to my [CV](https://jhalcantara.github.io/CV_Alcantara_JanHarold.pdf).
