@@ -8,7 +8,7 @@ layout: homepage
 <style>
   /* Define the styles for our A4 page container */
   .a4-page {
-    width: 21cm;
+    width: 26cm;
     min-height: 29.7cm;
     padding: 2cm;
     margin: 2em auto; 
@@ -37,9 +37,9 @@ layout: homepage
 
 <!-- Profile Section (this part is already HTML, so it works fine) -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="assets/images/lai_tian_profile.jpg" alt="Lai Tian" style="width: 160px; margin-right: 25px; border-radius: 8px;">
+  <img src="lyc.jpg" alt="Yuncheng Liu" style="width: 160px; margin-right: 25px; border-radius: 8px;">
   <div style="flex-grow: 1;">
-    <h2 style="margin-top: 0;">Lai Tian (田来)</h2>
+    <h2 style="margin-top: 0;">Yuncheng Liu (刘云程)</h2>
     <p style="margin: 0.5em 0;">
       Postdoctoral Scholar<br>
       <a href="https://ise.usc.edu/">Daniel J. Epstein Department of Industrial & Systems Engineering</a><br>
