@@ -26,7 +26,7 @@ layout: homepage
     padding-bottom: 0.1em;
     
     /* Adjusts the space below the line and the content that follows */
-    margin-bottom: 0.8em; 
+    margin-bottom: 0.5em; 
   }
 
   /* Responsive design for small screens */
