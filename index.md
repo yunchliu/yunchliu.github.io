@@ -8,9 +8,9 @@ layout: homepage
   - Right column: Name, title, and contact information.
 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="images/lyc.jpg" alt="Lai Tian" style="width: 160px; margin-right: 25px; border-radius: 8px;">
+  <img src="lyc.jpg" alt="Lai Tian" style="width: 160px; margin-right: 25px; border-radius: 8px;">
   <div style="flex-grow: 1;">
-    <h2 style="margin-top: 0;">Lai Tian (田来)</h2>
+    <h2 style="margin-top: 0;">Yuncheng Liu (刘云程)</h2>
     <p style="margin: 0.5em 0;">
       Postdoctoral Scholar<br>
       <a href="https://ise.usc.edu/">Daniel J. Epstein Department of Industrial & Systems Engineering</a><br>
