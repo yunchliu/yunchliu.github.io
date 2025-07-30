@@ -2,6 +2,72 @@
 layout: homepage
 ---
 
+<!-- 
+  This style block defines the A4 page effect.
+  It's placed here to be self-contained within this file.
+-->
+<style>
+  /* Define the styles for our A4 page container */
+  .a4-page {
+    /* A4 paper dimensions */
+    width: 21cm; /* A4 width */
+    min-height: 29.7cm; /* A4 height. Use min-height to allow content to grow. */
+    
+    /* Page margins (padding inside the container) */
+    padding: 2cm;
+    
+    /* Center the page on the screen */
+    margin: 2em auto; 
+    
+    /* Visual appearance of paper */
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow to lift it off the page */
+    
+    /* IMPORTANT: Ensures padding is included in the total width/height */
+    box-sizing: border-box; 
+  }
+
+  /* Responsive design for small screens (like mobile phones) */
+  @media screen and (max-width: 21cm) {
+    .a4-page {
+      /* On small screens, let the content fill the screen width */
+      width: 100%;
+      min-height: auto;
+      
+      /* Remove centering and shadow */
+      margin: 0;
+      box-shadow: none;
+      
+      /* Reduce padding for smaller screens */
+      padding: 1em;
+    }
+  }
+</style>
+
+<!-- This div wraps all content and applies the .a4-page style -->
+<div class="a4-page">
+
+  <!-- 
+    This section uses HTML to create a two-column layout for the profile.
+    - Left column: Profile picture.
+    - Right column: Name, title, and contact information.
+  -->
+  <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+    <img src="lyc.jpg" alt="Yuncheng Liu" style="width: 160px; margin-right: 25px; border-radius: 8px;">
+    <div style="flex-grow: 1;">
+      <h2 style="margin-top: 0;">Yuncheng Liu (刘云程)</h2>
+      <p style="margin: 0.5em 0;">
+        Postdoctoral Scholar<br>
+        <a href="https://ise.usc.edu/">Daniel J. Epstein Department of Industrial & Systems Engineering</a><br>
+        <a href="https://www.usc.edu/">University of Southern California</a>
+      </p>
+      <p style="margin: 1em 0;">
+        <strong>Office:</strong> OHE 340<br>
+        <strong>Email:</strong> tianlai.cs (at) gmail.com; laitian (at) usc.edu
+      </p>
+    </div>
+  </div>
+
 ## About Me
 
 I am a postdoctoral researcher at the [Center for Advanced Intelligence Project (AIP), RIKEN, Japan](https://www.riken.jp/en/research/labs/aip/index.html) in the [Continuous Optimization Team](https://www.riken.jp/en/research/labs/aip/generic_tech/continuous_optimize/) led by [Prof. Akiko Takeda](http://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html). Before my current position, I worked with [Prof. Ching-pei Lee](https://leepei.github.io/) as a postdoctoral scholar at [Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php). Prior to this, I held a postdoctoral fellowship at the [Department of Mathematics, National Taiwan Normal University](https://cantor.math.ntnu.edu.tw/index.php/en/index_en/), where I also completed my Ph.D. in Mathematics under the guidance of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). For a more detailed information about my background, please refer to my [CV](https://jhalcantara.github.io/CV_Alcantara_JanHarold.pdf).
