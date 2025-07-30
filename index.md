@@ -59,7 +59,7 @@ layout: homepage
     </p>
     <p style="margin: 1em 0;">
       <strong>Office:</strong> BC 208<br>
-      <strong>Email:</strong>yuncheng.liu@swun.edu.cn
+      <strong>Email:</strong>yuncheng.liu (at) swun.edu.cn
     </p>
   </div>
 </div>
