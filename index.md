@@ -3,18 +3,30 @@ layout: homepage
 ---
 
 <!-- 
-  This style block defines the A4 page effect.
+  This style block defines the A4 page effect and the title styling.
 -->
 <style>
   /* Define the styles for our A4 page container */
   .a4-page {
-    width: 26cm;
+    width: 21cm;
     min-height: 29.7cm;
     padding: 2cm;
     margin: 2em auto; 
     background: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     box-sizing: border-box; 
+  }
+
+  /* NEW: Style for all h2 titles inside the A4 page */
+  .a4-page h2 {
+    /* Creates the line directly under the text */
+    border-bottom: 1px solid #ccc; 
+    
+    /* Adds a little space between the text and the line */
+    padding-bottom: 0.3em;
+    
+    /* Adjusts the space below the line and the content that follows */
+    margin-bottom: 0.8em; 
   }
 
   /* Responsive design for small screens */
@@ -24,7 +36,7 @@ layout: homepage
       min-height: auto;
       margin: 0;
       box-shadow: none;
-      padding: 1.5em 1em; /* Adjusted padding for mobile */
+      padding: 1.5em 1em;
     }
   }
 </style>
@@ -39,7 +51,7 @@ layout: homepage
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <img src="lyc.jpg" alt="Yuncheng Liu" style="width: 160px; margin-right: 25px; border-radius: 8px;">
   <div style="flex-grow: 1;">
-    <h2 style="margin-top: 0;">Yuncheng Liu (刘云程)</h2>
+    <h2 style="margin-top: 0; border-bottom: none; padding-bottom: 0;">Yuncheng Liu (刘云程)</h2>
     <p style="margin: 0.5em 0;">
       Postdoctoral Scholar<br>
       <a href="https://ise.usc.edu/">Daniel J. Epstein Department of Industrial & Systems Engineering</a><br>
@@ -53,14 +65,15 @@ layout: homepage
 </div>
 
 
-## About Me 
-***
+## About Me
+
 I am a Postdoctoral Scholar at ISE of USC Viterbi working with Prof. [Johannes O. Royset](https://sites.google.com/a/nps.edu/royset/). Before relocating to Los Angeles, I spent four wonderful years in Hong Kong and received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I was advised by Prof. [Anthony Man-Cho So](https://www.se.cuhk.edu.hk/people/anthony-man-cho-so/).
 
 My research interests lie in the interface between mathematical optimization and computer science, with a particular emphasis on applications in modern machine learning. Recently, I have been especially focused on the computational and theoretical aspects of various **approximation techniques** in nonsmooth optimization and variational analysis.
 
 
 ## What's New?
+
 - Honored and grateful to share that our work received the **Best Paper Prize** for Young Researchers at [ICCOPT 2025](https://iccopt2025.gerad.ca/)!
 
 
