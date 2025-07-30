@@ -53,13 +53,13 @@ layout: homepage
   <div style="flex-grow: 1;">
     <h2 style="margin-top: 0; border-bottom: none; padding-bottom: 0;">Yuncheng Liu (刘云程)</h2>
     <p style="margin: 0.5em 0;">
-      Postdoctoral Scholar<br>
+      Lecturer<br>
       <a href="https://sxxy.swun.edu.cn/">Department of Mathematics</a><br>
       <a href="https://www.swun.edu.cn/">Southwest Minzu University</a>
     </p>
     <p style="margin: 1em 0;">
-      <strong>Office:</strong> OHE 340<br>
-      <strong>Email:</strong> tianlai.cs (at) gmail.com; laitian (at) usc.edu
+      <strong>Office:</strong> BC 208<br>
+      <strong>Email:</strong>yuncheng.liu@swun.edu.cn
     </p>
   </div>
 </div>
