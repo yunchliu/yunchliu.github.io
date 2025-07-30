@@ -54,8 +54,8 @@ layout: homepage
     <h2 style="margin-top: 0; border-bottom: none; padding-bottom: 0;">Yuncheng Liu (刘云程)</h2>
     <p style="margin: 0.5em 0;">
       Postdoctoral Scholar<br>
-      <a href="https://ise.usc.edu/">Daniel J. Epstein Department of Industrial & Systems Engineering</a><br>
-      <a href="https://www.usc.edu/">University of Southern California</a>
+      <a href="https://sxxy.swun.edu.cn/">Department of Mathematics</a><br>
+      <a href="https://www.swun.edu.cn/">Southwest Minzu University</a>
     </p>
     <p style="margin: 1em 0;">
       <strong>Office:</strong> OHE 340<br>
