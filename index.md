@@ -75,7 +75,7 @@ I am a lecturer at the [Center for Advanced Intelligence Project (AIP), RIKEN, J
 ## Research Interests
 
 I am interested in the analysis and development of solution methods for nonconvex problems that arise from
-- Nonlinear optimization
+- Deep learning
 - Feasibility problems
 - Variational inequalities and complementarity problems
 
