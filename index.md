@@ -8,7 +8,7 @@ layout: homepage
 <style>
   /* Define the styles for our A4 page container */
   .a4-page {
-    width: 21cm;
+    width: 26cm;
     min-height: 29.7cm;
     padding: 2cm;
     margin: 2em auto; 
@@ -23,7 +23,7 @@ layout: homepage
     border-bottom: 1px solid #ccc; 
     
     /* Adds a little space between the text and the line */
-    padding-bottom: 0.3em;
+    padding-bottom: 0.1em;
     
     /* Adjusts the space below the line and the content that follows */
     margin-bottom: 0.8em; 
