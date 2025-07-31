@@ -90,7 +90,7 @@ My research interests lie in the nonlinear optimization and its applications, an
   *Applicable Analysis*, 101(9), 3445-3464, 2021.
 
 - [**Convergence study on the logarithmic-quadratic proximal regularization of strictly contractive Peaceman Rachford splitting with larger step-size**](https://www.tandfonline.com/doi/full/10.1080/00207160.2019.1656806) \
-   Yuncheng Liu, Ke Guo and Meijia Yang\
+   Yuncheng Liu, Ke Guo and Meijia Yang \
   *International Journal of Computer Mathematics*, 97(8), 1744-1766, 2020.
 
 ## Visits
