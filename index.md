@@ -85,7 +85,7 @@ My research interests lie in the nonlinear optimization and its applications, an
    Yuncheng Liu and Fuquan Xia <br>
   *Optimization Letters*, 15, 2147–2164, 2022.
 
-- [**Linear convergence of proximal incremental aggregated gradient method for nonconvex nonsmooth minimization problems**] (https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1849634) <br>
+- [**Linear convergence of proximal incremental aggregated gradient method for nonconvex nonsmooth minimization problems**](https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1849634) <br>
    Yuncheng Liu and Fuquan Xia <br>
   *Applicable Analysis*, 101(9), 3445-3464, 2021.
 
