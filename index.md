@@ -81,7 +81,7 @@ My research interests lie in the nonlinear optimization and its applications, an
    Yuncheng Liu and Fuquan Xia \
   *Numerical Algorithms*, 96, 237-266, 2024.
 
-  - [**Variable smoothing incremental aggregated gradient method for nonsmooth nonconvex regularized optimization**](https://link.springer.com/article/10.1007/s11590-021-01723-2) \
+- [**Variable smoothing incremental aggregated gradient method for nonsmooth nonconvex regularized optimization**](https://link.springer.com/article/10.1007/s11590-021-01723-2) \
    Yuncheng Liu and Fuquan Xia \
   *Optimization Letters*, 15, 2147–2164, 2022.
 
@@ -89,7 +89,7 @@ My research interests lie in the nonlinear optimization and its applications, an
    Yuncheng Liu and Fuquan Xia \
   *Applicable Analysis*, 101(9), 3445-3464, 2021.
 
-  - [**Convergence study on the logarithmic-quadratic proximal regularization of strictly contractive Peaceman Rachford splitting with larger step-size**](https://www.tandfonline.com/doi/full/10.1080/00207160.2019.1656806) \
+- [**Convergence study on the logarithmic-quadratic proximal regularization of strictly contractive Peaceman Rachford splitting with larger step-size**](https://www.tandfonline.com/doi/full/10.1080/00207160.2019.1656806) \
    Yuncheng Liu, Ke Guo and Meijia Yang\
   *International Journal of Computer Mathematics*, 97(8), 1744-1766, 2020.
 
