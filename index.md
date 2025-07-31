@@ -73,7 +73,7 @@ My research interests lie in the nonlinear optimization and its applications, an
 
 ## Selected Recent Works [[Google Scholar]](URL_TO_GOOGLE_SCHOLAR_PROFILE)
 
-- **Approximating Rockafellians Mitigate Distributional Perturbations** \
+- **Approximating Rockafellians Mitigate Perturbations** \
   L. Tian, J. O. Royset \
   *Preprint, 2025.* \
   [[arXiv]](URL_TO_ARXIV_PAPER_1)
