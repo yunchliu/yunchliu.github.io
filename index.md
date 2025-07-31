@@ -73,13 +73,13 @@ My research interests lie in the nonlinear optimization and its applications, an
 
 ## Selected 
 
-- [**Kurdyka-Łojasiewicz exponent via Hadamard parametrization**](https://epubs.siam.org/doi/10.1137/24M1636186) \
-   Wenqing Ouyang, Yuncheng Liu, Ting Kei Pong and Hao Wang \
+- [**Kurdyka-Łojasiewicz exponent via Hadamard parametrization**](https://epubs.siam.org/doi/10.1137/24M1636186) \\
+   Wenqing Ouyang, Yuncheng Liu, Ting Kei Pong and Hao Wang \\
   *SIAM Journal on Optimization*, vol. 35(1), 62-91, 2025.
 
-- **Testing Approximate Stationarity Concepts for Piecewise Affine Functions** \
-  L. Tian, A. M.-C. So \
-  *Preprint.* \
+- **Testing Approximate Stationarity Concepts for Piecewise Affine Functions** \\
+  L. Tian, A. M.-C. So \\
+  *Preprint.* \\
   [[arXiv]](URL_TO_ARXIV_PAPER_2)
 
 ## Visits
