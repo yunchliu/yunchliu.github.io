@@ -71,12 +71,11 @@ I am currently a Lecturer at Department of Mathematics, Southwest Minzu Universi
 
 My research interests lie in the nonlinear optimization and its applications, and first-order methods for large-scale convex or nonconvex problems.
 
-## Selected Recent Works [[Google Scholar]](URL_TO_GOOGLE_SCHOLAR_PROFILE)
+## Selected 
 
-- **Approximating Rockafellians Mitigate Perturbations** \
-  L. Tian, J. O. Royset \
-  *Preprint, 2025.* \
-  [[arXiv]](URL_TO_ARXIV_PAPER_1)
+- [**Kurdyka-Łojasiewicz exponent via Hadamard parametrization**](https://epubs.siam.org/doi/10.1137/24M1636186) \
+ Wenqing Ouyang, **Yuncheng Liu**, Ting Kei Pong and Hao Wang\
+*SIAM Journal on Optimization*, vol. 35(1), 62-91, (2025)
 
 - **Testing Approximate Stationarity Concepts for Piecewise Affine Functions** \
   L. Tian, A. M.-C. So \
