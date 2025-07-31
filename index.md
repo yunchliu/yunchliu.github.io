@@ -83,4 +83,8 @@ My research interests lie in the nonlinear optimization and its applications, an
   *Preprint.* \
   [[arXiv]](URL_TO_ARXIV_PAPER_2)
 
+## Visits
+- 2025.07 - 2025.08, Department of Applied Mathematics, The Hong Kong Polytechnic University, hosted by [Professor Ting Kei Pong](https://www.polyu.edu.hk/ama/profile/pong/).
+  
+
 </div> <!-- This closes the .a4-page wrapper -->
