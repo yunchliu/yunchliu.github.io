@@ -71,7 +71,7 @@ I am currently a Lecturer at Department of Mathematics, Southwest Minzu Universi
 
 My research interests lie in the nonlinear optimization and its applications, and first-order methods for large-scale convex or nonconvex problems.
 
-## Selected Publications
+## Selected Publication
 
 - [**Kurdyka-Łojasiewicz exponent via Hadamard parametrization**](https://epubs.siam.org/doi/10.1137/24M1636186) \
    Wenqing Ouyang, Yuncheng Liu, Ting Kei Pong and Hao Wang \
