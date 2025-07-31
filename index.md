@@ -73,8 +73,8 @@ My research interests lie in the nonlinear optimization and its applications, an
 
 ## Selected Publications
 
-- [**Kurdyka-Łojasiewicz exponent via Hadamard parametrization**](https://epubs.siam.org/doi/10.1137/24M1636186) <--
-   Wenqing Ouyang, Yuncheng Liu, Ting Kei Pong and Hao Wang <--
+- [**Kurdyka-Łojasiewicz exponent via Hadamard parametrization**](https://epubs.siam.org/doi/10.1137/24M1636186) --
+   Wenqing Ouyang, Yuncheng Liu, Ting Kei Pong and Hao Wang --
   *SIAM Journal on Optimization*, 35(1), 62-91, 2025.
 
 - [**Proximal variable smoothing method for three-composite nonconvex nonsmooth minimization with a linear operator**](https://link.springer.com/article/10.1007/s11075-023-01645-3) <--
