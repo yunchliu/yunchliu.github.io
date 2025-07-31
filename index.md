@@ -71,12 +71,6 @@ I am currently a Lecturer at Department of Mathematics, Southwest Minzu Universi
 
 My research interests lie in the interface between mathematical optimization and computer science, with a particular emphasis on applications in modern machine learning. Recently, I have been especially focused on the nonlinear optimization and its applications: first-order methods for large-scale (convex or nonconvex) problems.
 
-
-## What's New?
-
-- Honored and grateful to share that our work received the **Best Paper Prize** for Young Researchers at [ICCOPT 2025](https://iccopt2025.gerad.ca/)!
-
-
 ## Selected Recent Works [[Google Scholar]](URL_TO_GOOGLE_SCHOLAR_PROFILE)
 
 - **Approximating Rockafellians Mitigate Distributional Perturbations** \
