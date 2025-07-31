@@ -8,7 +8,7 @@ layout: homepage
 <style>
   /* Define the styles for our A4 page container */
   .a4-page {
-    width: 27cm;
+    width: 29cm;
     min-height: 29.7cm;
     padding: 2cm;
     margin: 2em auto; 
